@@ -7,7 +7,7 @@ import java.util.Scanner;
  *
  * @author Pieter van den Hombergh / Richard van den Ham
  */
-public class Calculator {
+//public class Calculator {
 //
 //    /**
 //     * Program entry. The program asks for input. Enter an operand, followed by the operator, followed by another operand.
@@ -51,4 +51,4 @@ public class Calculator {
 //
 //        return Operator.get(symbol).compute(a, b);
 //    }
-}
+//}
